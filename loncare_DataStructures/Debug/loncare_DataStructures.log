@@ -1,0 +1,9 @@
+﻿  loncare_DataStructures.cpp
+c:\users\lonca\onedrive\desktop\loncare_datastructures\loncare_datastructures\studentlist.h(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StudentList.cpp
+c:\users\lonca\onedrive\desktop\loncare_datastructures\loncare_datastructures\studentlist.h(28): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\lonca\onedrive\desktop\loncare_datastructures\loncare_datastructures\studentlist.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\lonca\onedrive\desktop\loncare_datastructures\loncare_datastructures\studentlist.cpp(84): warning C4018: '<': signed/unsigned mismatch
+  Student.cpp
+  Generating Code...
+  loncare_DataStructures.vcxproj -> C:\Users\lonca\OneDrive\Desktop\loncare_DataStructures\Debug\loncare_DataStructures.exe
